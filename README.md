@@ -7,5 +7,5 @@ This is a bash script based project / git repository generator to be used in git
 Create a new project named Demo from minimal template:
 
 ```
-./create_from_template.sh -p Demo -p minimal
+./create_from_template.sh -p Demo -t minimal
 ```

@@ -5,6 +5,7 @@ USAGE=$'Usage
   ./create_from_template [options]
 
 Options
+  -p	Project name (no spaces allowed)
   -d	Destination directory
   -t	Project template to use
   -v	Specify macro and value: <NAME>=<VALUE>'
